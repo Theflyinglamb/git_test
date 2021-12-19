@@ -1,2 +1,1 @@
 print(U better finish this fucking class and get a job)
-git add .
